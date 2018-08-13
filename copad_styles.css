@@ -16,3 +16,6 @@ nav.nav-center ul li {
 nav.nav-center ul li a {
     display: inline-block;
 }
+.material-icons.large-icon {
+    font-size: 10em;
+}
